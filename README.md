@@ -85,20 +85,20 @@ Here are some more reference-like resources. These might be slightly technical, 
 
 You should be able to...
 
-- [ ] Open the terminal from within Mac Finder / Windows
-- [ ] Use `cd <directoryname>` to navigate between directories
-- [ ] Use `ls` to list the contents of a directory
-- [ ] Use `mkdir <directoryname>` to create an empty directory
-- [ ] Use `touch <filename>` to create an empty file
-- [ ] Use `Atom .` to open the current directory in your code editor
+- [x] Open the terminal from within Mac Finder / Windows
+- [x] Use `cd <directoryname>` to navigate between directories
+- [x] Use `ls` to list the contents of a directory
+- [x] Use `mkdir <directoryname>` to create an empty directory
+- [x] Use `touch <filename>` to create an empty file
+- [x] Use `Atom .` to open the current directory in your code editor
 
 
 ### Editing and Viewing
 
-- [ ] ✏️ Create a new (empty) HTML file named `basic-image.html` and edit it in Atom
-- [ ] ✏️ Write some HTML in `basic-image.html`
-- [ ] Open `basic-image.html` in your browser and test it locally
-- [ ] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
+- [x] ✏️ Create a new (empty) HTML file named `basic-image.html` and edit it in Atom
+- [x] ✏️ Write some HTML in `basic-image.html`
+- [x] Open `basic-image.html` in your browser and test it locally
+- [x] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
 - [ ] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
 
 
