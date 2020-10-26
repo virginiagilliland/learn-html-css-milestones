@@ -99,7 +99,7 @@ You should be able to...
 - [x] ✏️ Write some HTML in `basic-image.html`
 - [x] Open `basic-image.html` in your browser and test it locally
 - [x] Use "Inspect Element" to open the developer tools and view the HTML and CSS for areas on your web page
-- [ ] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
+- [x] ✏️ Add an image to the project `assets/img/` directory and display it on the webpage using the `<img>` tag
 
 
 
@@ -115,15 +115,15 @@ Let's make sure we have the basic structure of an HTML page down. Don't worry to
 
 ✏️ You should be able to create a file called `basic-structure.html` that contains the following, structured correctly:
 
-- [ ] ✏️ A `DOCTYPE` declaration
-- [ ] ✏️ A `<html>` tag, containing...
-  - [ ] ✏️ A `<head>` tag, containing...
-    - [ ] ✏️ A `<title>` tag with a title of your choosing
-  - [ ] ✏️ A `<body>` tag containing...
-    - [ ] ✏️ One top-level `<h1>` header
-    - [ ] ✏️ A few paragraphs of text in `<p>` tags
-    - [ ] ✏️ A second-level `<h2>` tag
-    - [ ] ✏️ A few more paragraphs of text in `<p>` tags
+- [x] ✏️ A `DOCTYPE` declaration
+- [x] ✏️ A `<html>` tag, containing...
+  - [x] ✏️ A `<head>` tag, containing...
+    - [x] ✏️ A `<title>` tag with a title of your choosing
+  - [x] ✏️ A `<body>` tag containing...
+    - [x] ✏️ One top-level `<h1>` header
+    - [x] ✏️ A few paragraphs of text in `<p>` tags
+    - [x] ✏️ A second-level `<h2>` tag
+    - [x] ✏️ A few more paragraphs of text in `<p>` tags
 
 
 ### The Anatomy of an HTML Tag
@@ -139,12 +139,12 @@ Let's make sure we have the basic structure of an HTML page down. Don't worry to
 
 In `basic-snippet.html`, you should be able to:
 
-- [ ] ✏️ Name the tags in the snippet
-- [ ] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
-- [ ] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
-- [ ] ✏️ Explain the relationship between `<p>` and `</p>`
-- [ ] ✏️ List some of the attribute names on the `<a>` tag
-- [ ] ✏️ For each attribute on the `<a>` tag, name its value
+- [x] ✏️ Name the tags in the snippet
+- [x] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
+- [x] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
+- [x] ✏️ Explain the relationship between `<p>` and `</p>`
+- [x] ✏️ List some of the attribute names on the `<a>` tag
+- [x] ✏️ For each attribute on the `<a>` tag, name its value
 - [ ] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
 
 
