@@ -145,7 +145,7 @@ In `basic-snippet.html`, you should be able to:
 - [x] ✏️ Explain the relationship between `<p>` and `</p>`
 - [x] ✏️ List some of the attribute names on the `<a>` tag
 - [x] ✏️ For each attribute on the `<a>` tag, name its value
-- [ ] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
+- [x] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
 
 
 ### Basic Tags
@@ -156,34 +156,34 @@ Each section should be contained in its own `<section>` tag. Do not use any CSS 
 
 You should be able to create sections that demonstrate...
 
-- [ ] The following block-level text containers:
-  - [ ] ✏️ The paragraph `<p>` tag
-  - [ ] ✏️ The blockquote `<blockquote>` tag
-  - [ ] ✏️ The pre-formatted text `<pre>` tag
-- [ ] Inline text styling using the following tags:
-  - [ ] ✏️ `<em>` and `<i>`
-  - [ ] ✏️ `<strong>` and `<b>`
-  - [ ] ✏️ `<code>`
-- [ ] ✏️ The `<a>` tag
-- [ ] ✏️ The `<img>` tag
-- [ ] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
+- [x] The following block-level text containers:
+  - [x] ✏️ The paragraph `<p>` tag
+  - [x] ✏️ The blockquote `<blockquote>` tag
+  - [x] ✏️ The pre-formatted text `<pre>` tag
+- [x] Inline text styling using the following tags:
+  - [x] ✏️ `<em>` and `<i>`
+  - [x] ✏️ `<strong>` and `<b>`
+  - [x] ✏️ `<code>`
+- [x] ✏️ The `<a>` tag
+- [x] ✏️ The `<img>` tag
+- [x] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
 
 ### Lists
 
 Building on `basic-tags.html`, you should be able to do the following:
 
-- [ ] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
-- [ ] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
-- [ ] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
-- [ ] ✏️ Nest lists within each other
+- [x] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
+- [x] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
+- [x] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
+- [x] ✏️ Nest lists within each other
 
 ### Tables
 
 Building on `basic-tags.html`, you should be able to create tables of varying sizes:
 
-- [ ] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
-- [ ] ✏️ Add headings using the `<th>` tag
-- [ ] ✏️ Create two more tables of different dimensions
+- [x] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
+- [x] ✏️ Add headings using the `<th>` tag
+- [x] ✏️ Create two more tables of different dimensions
 
 ### Multimedia
 
