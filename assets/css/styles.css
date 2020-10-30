@@ -1,15 +1,16 @@
 /* Select the body tag */
-body {
+/* body {
   font-family: 'Times New Roman', Times, serif;
   font-size: 18px;
   line-height: 1.5;
 }
 
 /* Select all h1, h2, ..., h6 tags */
+/*
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
 }
-
+*/
 /* Select the element with id="page" */
 #page {
   width: 600px;
@@ -25,3 +26,31 @@ pre {
 pre code {
   white-space: pre-line;
 }
+
+
+.caketitle {
+  text-align: center;
+  font-size: 5em;
+  text-transform: uppercase;
+}
+
+
+/*
+    - `color`
+    - `text-align`
+    - `text-transformation`
+- `line-height`
+- `letter-spacing`
+    - `font-family`
+    - `font-size`
+- `font-style`
+- `font-weight`
+    - `background-color`
+- `background-image`
+- `list-style-type`
+    - `width` and `height` (using an `<img>` tag)
+- `margin`
+- `padding`
+- `border`
+
+ */
